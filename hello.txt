@@ -1,0 +1,8 @@
+Introduction to File Handling
+Files are an essential component of computer 
+systems and play a crucial role in programming. 
+They are used to store and manage data,
+enabling programs to read, write, and manipulate information in a persistent manner. 
+In programming, files are vital for tasks such as storing user data,
+configuration settings, logging, and handling various forms of input and output.
+

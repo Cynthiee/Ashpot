@@ -1,0 +1,46 @@
+﻿Day 1: Introduction to OOP and Classes/Objects
+Morning Session: Introduction to OOP
+    • What is Object-Oriented Programming?
+    • Benefits of OOP
+    • The significance of OOP in software development
+Afternoon Session: Classes and Objects
+    • Creating classes and objects in Python
+    • Understanding instance variables and methods
+    • Using constructors (init) for object initialization
+Day 2: Inheritance and Encapsulation
+Morning Session: Inheritance
+    • Creating a hierarchy of classes
+    • Base and derived classes
+    • Method overriding for customizing behavior
+    • Utilizing the super() function for base class access
+Afternoon Session: Encapsulation
+    • Data hiding and encapsulation principles
+    • Implementing accessor and mutator methods (getters and setters)
+    • Applying property decorators for attribute control
+Day 3: Polymorphism and Advanced Inheritance
+Morning Session: Polymorphism
+    • Understanding polymorphism conceptually
+    • Exploring method overloading and method overriding
+    • Embracing duck typing for flexible code
+Afternoon Session: Advanced Inheritance
+    • Handling multiple inheritance scenarios
+    • Navigating the method resolution order (MRO)
+    • Utilizing abstract base classes (ABCs) and mixins for robust designs
+Day 4: Error Handling, Metaclasses, and Decorators
+Morning Session: Error Handling in OOP
+    • Implementing exception handling within classes
+    • Crafting custom exceptions for specific cases
+Afternoon Session: Metaclasses and Decorators
+    • Exploring metaclasses and their significance
+    • Creating custom metaclasses to shape class behavior
+    • Understanding function and class decorators
+    • Applying decorators within the OOP context
+Day 5: Design Principles, Memory Management, and Performance
+Morning Session: Design Principles
+    • Embracing composition over inheritance
+    • Applying design principles for maintainable code
+Afternoon Session: Memory Management and Performance
+    • Diving into Python's garbage collection mechanisms
+    • Discovering memory optimization techniques
+    • Profiling and tuning code for better performance
+

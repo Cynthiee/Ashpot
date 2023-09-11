@@ -1,0 +1,15 @@
+﻿    1. Create a Python function that removes duplicates from a list while maintaining their original order.
+    2. Develop a Python program that takes a sequence of comma-separated 4-digit binary numbers as input and displays the numbers divisible by 5 in a comma-separated sequence.
+    3. Design a Python program to generate the multiplication table (from 1 to 10) for a given number.
+    4. Implement a Python program to verify if the provided strings are palindromes or not. Return True if they are palindromes; otherwise, return False.
+       Input: ['palindrome', 'madamimadam', '', 'foo', 'eyes']
+       Output: [False, True, True, False, False]
+    5. Write a Python program to handle the ZeroDivisionError exception that may occur when dividing a number by zero.
+    6. Create a Python program that attempts to open a file and handles a FileNotFoundError exception if the file does not exist.
+    7. Develop a Python function to determine whether a number is considered "Perfect" or not. According to Wikipedia, a perfect number is one whose sum of proper divisors equals the number itself.
+    8. Design a Python function that counts the number of uppercase and lowercase letters in a given string.
+    9. Create a Python program that defines a lambda function to add 15 to a given number as an argument, and another lambda function to multiply two provided arguments (x and y) and display the result.
+    10. Write a Python program that uses a lambda function to check if a given string is a numeric value.
+    11. Develop a Python program to count the number of lines in a text file.
+    12. Design a Python program to extract characters from various text files and store them in a list.
+
