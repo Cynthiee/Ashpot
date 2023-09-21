@@ -1,15 +1,15 @@
 import tkinter
 
 root = tkinter.Tk()
-root.geometry("200x150")
+root.geometry("400x200")
 frame = tkinter.Frame(root)
 frame.pack()
 
 leftframe = tkinter.Frame(root)
-leftframe.pack(side="LEFT")
+leftframe.pack(side="left")
 
 rightframe =tkinter.Frame(root)
-rightframe.pack(side="RIGHT")
+rightframe.pack(side="right")
 
 label = tkinter.Label(frame, text="Hello world")
 label.pack()

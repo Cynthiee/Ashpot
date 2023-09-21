@@ -3,6 +3,7 @@ import tkinter
 # print(tkinter.TkVersion)  checks the version of tkinter
 root = tkinter.Tk()
 root.title("title page")
+root.geometry("500x300")
 
 title_label = tkinter.Label(root, text="We are Learning Tkinter.")
 insert = tkinter.Entry(root)
