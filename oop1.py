@@ -1,15 +1,16 @@
-# class Human:
+class Human:
 
-#     def __init__(self, name, age, color):
-#         self.name = name
-#         self.age = age
-#         self.color = color
+    def __init__(self, name, age, color):
+        self.name = name
+        self.age = age
+        self.color = color
         
-#     def talk(self):
-#         print("Hello, World!","I'm",self.name, "I am", self.age, "years old", "and I am", self.color)
+    def talk(self):
+        print("Hello, World!","I'm",self.name, "I am", self.age, "years old", "and I am", self.color)
 
-# name = Human("Cynthia", 20, "dark")
-# name.talk()
+name = Human("Cynthia", 20, "dark")
+age = Human()
+name.talk()
 
 # Read, understand and practice access specified in python
 # Using oop, write a python program that has different

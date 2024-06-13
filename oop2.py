@@ -64,4 +64,4 @@ data.get_data2()
 # Instance variable
 # local variable
 # differentiat with examples, instance method, class method and static method
-# Decorations in python
+# Decorators in python
